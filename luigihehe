@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+    background-image: url("https://static.pexels.com/photos/1587/blurred-background.jpg")
+    } 
+h1 {
+    font-size: 40px;
+    color:  RoyalBLue;
+    text-align: center;
+    font-family: arial;
+    } 
+    
+p  {
+    text-align:center;
+    padding: 10px; 
+    font-family: arial;
+    font-size:   20px;
+    color: black;
+   }
+
+   
+a.class1:link {
+    
+    font-family: arial;
+    font-size:  20px   
+    color: DodgerBlue;
+    text-align:center;
+    text-decoration: none;
+    } 
+    
+a.class1:visited {
+    font-family: arial;
+    font-size: 20px;   
+    color: DodgerBlue;
+    text-align:center;
+  
+    }
+a.class1:hover  {
+    font-family: arial;
+    font-size:  20x;    
+    color: DodgerBlue;    
+    text-align:center;
+    text-decoration: underline;
+    }
+
+a.class2:link {
+    
+    font-family: arial;
+    font-size:  40px   
+    color: RoyalBlue;
+    text-align:center;
+    text-decoration: none;
+    } 
+    
+a.class2:visited {
+    font-family: arial;
+    font-size: 40px;   
+    color: RoyalBlue;
+    text-align:center;
+    text-decoration: none;
+    }
+a.class2:hover  {
+    font-family: arial;
+    font-size:  40x;    
+    color: RoyalBlue;    
+    text-align:center;
+    text-decoration: none;
+    
+    
+    
+</style>
+</head>
+<body>
+
+<h1><a href="https://8bitzawad.github.io"class="class2">Welcome to the worst website your have ever laid your eyes on.</a></h1>
+<p> hehe this will be soon filled with memes</p>
+
+
+
+  
+       
+    
+    
+</body>
+</html>
+
+
