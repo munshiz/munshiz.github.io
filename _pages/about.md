@@ -12,3 +12,6 @@ Hello! My name is Zawad Munshi, and I’m currently pursuing a Master of Science
 Here you’ll find a showcase of some of the projects I’ve worked on — ranging from academic, industry, and personal  projects. My interests span computer architecture, embedded systems, digital hardware design, PCB development, and signal processing. I especially enjoy working the bridge between hardware and software.
 
 I’m always open to connecting with fellow engineers, researchers, and makers — feel free to reach out if something here catches your interest! 
+
+In my free time, you'll often find me cycling across a city or in the middle of a mountain or forest. I love traveling and exploring, so feel free to check out some of
+my photography as well! 
